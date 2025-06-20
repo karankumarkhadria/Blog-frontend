@@ -1,0 +1,3 @@
+assusme hame ek login button banana hai or usme jo input field hogi email ya password ki jo bhi hogi ham use ek alag se component me bana lenge or jab bhi input field hame use karni hogi ham uss component ko use karlenge or apne hisaab se props banalenge 
+
+abb hame agar input pe koi state lagani ho to hamara login page alag hai or component alag hai abb ham component pe state to laga nhi sakte to ham ek hook use karenge jiska name hai forwardReference
